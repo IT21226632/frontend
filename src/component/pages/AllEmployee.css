@@ -1,0 +1,104 @@
+.btn-btn-primary {
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.25;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    border: 1px solid transparent;
+    border-radius: 0.25rem;
+    transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+  }
+  
+  .btn-primary {
+    color: #fff;
+    background-color: #007bff;
+    border-color: #007bff;
+  }
+  
+  .btn:hover {
+    color: #fff;
+    background-color: #0069d9;
+    border-color: #0062cc;
+  }
+  
+  .btn-primary:hover {
+    color: #fff;
+    background-color: #0069d9;
+    border-color: #0062cc;
+  }
+  
+  .search-form {
+    display: flex;
+    align-items: center;
+    margin-bottom: 2cm;
+    margin-left: 50%;
+    margin-right: 50%;
+    width: 20cm;
+  }
+  
+  .search-form input[type="text"] {
+    padding: 0.5rem;
+    font-size: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 0.25rem 0 0 0.25rem;
+  
+  }
+  
+  .search-form button[type="submit"] {
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.25;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    border: 1px solid #ccc;
+    border-radius: 0 0.25rem 0.25rem 0;
+    background-color: #fff;
+    transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+  }
+  
+  .search-form button[type="submit"]:hover {
+    background-color: #f0f0f0;
+    border-color: #f0f0f0;
+  }
+  .top-button {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  .btn-btn-info btn-sm{
+    color: #0f151b;
+    margin: 20px;
+
+  }
+  .btn-q{
+    color: #e3e6e9;
+    background-color: #eaedf0;
+  }
+  .btn-qp{
+    color: #0f151b;
+    background-color: #0f151b;
+  }
+  .background-image {
+    background-image: url('./Images/c2\ -\ Copy.jpg');
+    background-size: cover;
+    background-position: center center;
+    height: 100%;
+    background-repeat: no-repeat;
+    backdrop-filter: blur(5px);
+    filter: grayscale(50%);
+    border-radius: 30px;
+    
+  }
+  .attributes{
+    text-align: right;
+    color: #ccc;
+  }
+  
+ 

@@ -1,0 +1,27 @@
+#content1 {
+  
+    display: flex;
+    justify-content: center; /* horizontally center the container */
+     /* vertically center the container */
+    height: 50vh; /* set the height of the container to full viewport height */
+
+  }
+
+#containerq1{
+
+    background-color: rgb(255, 255, 255);
+    margin: 20px;
+    width: 250px;
+    height: 200px;
+    border-radius: 10px;
+    transition: background-color 0.3s ease-in-out;
+}
+
+#containerq1:hover {
+  background-color: rgb(250, 241, 186);
+}
+#Im1 {
+    display: block;
+    margin: 0 auto;
+    background-image: url('./Images/image.SVG');
+  }

@@ -1,0 +1,106 @@
+.btn-primary-av{
+    background-color: #05c545; /* Set the background color of the button */
+  border: none; /* Remove the border of the button */
+  color: rgb(28, 28, 31); /* Set the text color of the button */
+  padding: 10px 20px; /* Set the padding of the button */
+  text-align: center; /* Center the text in the button */
+  text-decoration: none; /* Remove the underline from the button text */
+  display: inline-block; /* Make the button an inline-block element */
+  font-size: 16px; /* Set the font size of the button text */
+  margin: 10px; /* Add some margin around the button */
+  border-radius: 5px; /* Add rounded corners to the button */
+  text-transform: uppercase; /* Convert the text in the button to uppercase */
+  cursor: pointer; /* Change the cursor to a pointer on hover */
+}
+
+
+.form-control{
+    border: 2px solid #ccc;
+  padding: 10px;
+  font-size: 12px;
+  font-family: Arial, sans-serif;
+  color: #555;
+  border-radius: 20px;
+  box-sizing: border-box;
+  background-color: #f0ebee;
+  width: 70%;
+  
+}
+
+    .form-group {
+        margin-top: 0px;
+        border-radius: 10px;
+        width: 50%;
+        text-align: center; /* Add some space between form-groups */
+      }
+      .form-group label {
+        display: block; /* Make the label a block element */
+        font-size: 16px;
+        margin-bottom: 5px;
+        text-align: center;
+        
+      }
+      .form-group input {
+        display: block; /* Make the input field a block element */
+        width: 00%;
+        padding: 10px;
+        font-size: 16px;
+        font-family: Arial, sans-serif;
+        color: #555;
+        border: 2px solid #ccc;
+        border-radius: 5px;
+        box-sizing: border-box;
+        text-align: center;
+      }
+        
+     
+      .form-group label {
+        display: block; /* Make the label a block element */
+        font-size: 16px;
+        margin-bottom: 5px;
+        color: #000;
+        border: #000 ;
+      
+      }
+      .form-group input {
+        display: block; /* Make the input field a block element */
+        width: 100%;
+        padding: 10px;
+        font-size: 16px;
+        font-family: Arial, sans-serif;
+        
+        border: 2px solid #ccc;
+        border-radius: 5px;
+        box-sizing: border-box;
+      }
+.container-v{
+    max-width: 600px; /* Set the maximum width of the container */
+    margin:auto; 
+    margin-right: 20px;/* Center the container on the page */
+    padding: 20px; /* Add some padding to the container */
+    background-color: #b39797; /* Add a background color to the container */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 60px;
+    width: 100%; /* Add a box shadow to the container */
+  
+}     
+.background-image-a {
+  background-image: url('./Images/c3\ -\ Copy.jpg');
+  background-size: cover;
+  background-position: center center;
+  height: 100%;
+  background-repeat: no-repeat;
+  backdrop-filter: blur(5px);
+  filter: grayscale(50%)  contrast(100%);
+  border-radius: 30px;
+  opacity: 10;
+  
+  
+}
+.transparent {
+  background-color: rgba(255, 255, 63, 0.5);
+}
+
+
+
+

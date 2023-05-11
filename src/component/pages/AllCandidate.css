@@ -1,0 +1,11 @@
+.background-image-c {
+    background-image: url('./Images/c4.jpg');
+    background-size: cover;
+    background-position: center center;
+    height: 100%;
+    background-repeat: no-repeat;
+    backdrop-filter: blur(5px);
+    filter: grayscale(50%);
+    border-radius: 30px;
+    
+  }
